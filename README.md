@@ -1,2 +1,2 @@
 # course-python-programming
-Kumpulan kode dari Indonesia AI
+Kumpulan kode dari Indonesia AI bersama indonesia AI
